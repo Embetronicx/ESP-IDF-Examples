@@ -1,0 +1,7 @@
+{
+  "C_Cpp.intelliSenseEngine": "default",
+  "idf.portWin": "COM5",
+  "idf.flashType": "UART",
+  "idf.adapterTargetName": "esp32",
+  "cmake.configureOnOpen": false
+}
